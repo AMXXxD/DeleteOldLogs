@@ -10,8 +10,7 @@ new lista_folderow[][]={
 	"addons/amxmodx/logs",
 	"addons/amxmodx/logs/reaimdetector",
 	"addons/amxmodx/logs/amx_log",
-	"addons/amxmodx/logs/amx_log/amx_log_chat",
-	"logs"
+	"addons/amxmodx/logs/amx_log/amx_log_chat"
 }
 
 public plugin_init() {
